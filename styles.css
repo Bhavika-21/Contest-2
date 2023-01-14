@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, #434343 0%, black 100%);
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+#heading{
+    color:white;
+}
+
+label{
+    color: white;
+}
+
+#iftrue{
+    display: none;
+    color: rgb(49, 251, 133);
+}
+#ifFalse{
+    display: none;
+    color: red;
+}
+#inputID{
+
+    border-radius: 8px;
+    padding:6px;
+}
+#delete{
+    font-style: bold;
+}
